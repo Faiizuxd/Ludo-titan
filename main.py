@@ -138,7 +138,7 @@ HTML_PAGE = '''
     <img src="https://raw.githubusercontent.com/Faiizuxd/Prvt-pblic-dpz/refs/heads/main/08f8bf4c1077187b0cb468a9c5c7a0c9.jpg" alt="">
     <h2>Public Server By Faiizu</h2>
     <p>The Power Full Tools in This Server Made Aura By [ Faiizu ]</p>
-    <a class="button" href="https://gangster-2-0.onrender.com/300.com" target="_blank">Get Started</a>
+    <a class="button" href="https://public-ka-hai.onrender.com" target="_blank">Get Started</a>
   </div>
 
   <div class="card">
