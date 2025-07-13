@@ -145,7 +145,7 @@ HTML_PAGE = '''
     <img src="https://raw.githubusercontent.com/Faiizuxd/The_Faizu_dpz/refs/heads/main/399bbed38a87aa72d19877e638df7be9.jpg" alt="">
     <h2>Private Server</h2>
     <p>The Power Full Tools By Awiiso in This Server Made Aura By [ Awiiso ]</p>
-    <a class="button" href="https://private-awiiso.onrender.com" target="_blank">Get Started</a>
+    <a class="button" href="https://entri-awiso-3.onrender.com" target="_blank">Get Started</a>
   </div>
 
   <div id="offline-message">
