@@ -112,7 +112,7 @@ html_content = """
   </div>
 </a>
 
-<a href="https://entri-awiso-3.onrender.com" target="_blank">
+<a href="fi6.bot-hosting.net:21384/" target="_blank">
   <div class="card">
     <div class="wrapper">
       <img src="https://ggayane.github.io/css-experiments/cards/force_mage-cover.jpg" class="cover-image" />
